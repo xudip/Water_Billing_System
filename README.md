@@ -1,4 +1,16 @@
 # Water_Billing_System
+This project is developed in java. This project creates admin user and admin can do various tasks like add users.
+Adding users includes:
+	a. adding of customer details and profile to login.
+	b. adding of meterreader details
+	c. also add other admin too.
+
+project features be like:
+a. manage users.
+b. view bills.
+c. create bills.
+d. manage profile information.
+
 
 STEPS TO RUN THE PROGRAM DIRECTLY.
 Download the folder "Executable FIles" and "Database File".
