@@ -1,4 +1,8 @@
 # Water_Billing_System
+This is the project done in java with some features like:
+1. add, delete and update from database.
+2. view bills with beautiful user interface.
+3. secured with login privileges.
 
 STEPS TO RUN THE PROGRAM DIRECTLY.
 Download the folder "Executable FIles" and "Database File".
